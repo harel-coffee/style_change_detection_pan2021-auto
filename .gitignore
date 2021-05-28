@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+__pycache__/
+*.py[cod]
+
+pos_tagger/nltk-trainer-master/*
+preprocessed_data/**
+
